@@ -51,7 +51,7 @@ The interfaces were designed with a focus on usability, visual consistency, acce
 
 ![Customer Recommendations & Cart](03-customer-recommendations-cart.png)
 
-![Customer Onboarding & Sign In](05-customer-onboarding-signin.png)
+![Customer Onboarding & Sign In](05-customer-signin.png)
 
 ![AI Assistant & Sustainability](06-customer-ai-assistant-sustainability.png)
 
