@@ -63,4 +63,4 @@ The interfaces were designed with a focus on usability, visual consistency, acce
 
 The complete interactive prototype was created in Figma.
 
-> Figma prototype link can be added here.
+> https://www.figma.com/design/y3QNfPsCjD9YEJQVLx7YMy/DGTIN?t=IfxnlHupGHBW3917-1
